@@ -21,5 +21,18 @@ public class one {
     char c = 'a';
     boolean b = true;
 
+    // type conversion and type casting
+    byte by = 127;
+    int a = 5;
+    // by = a; not possible
+    a =by;
+
+    int number =256;
+    // byte b = (byte)number;  will not work 
+
+    float fl = 6.5f;
+    int integer = (int)fl;
+    // this will work
+
   }
 }
