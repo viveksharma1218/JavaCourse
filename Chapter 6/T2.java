@@ -1,5 +1,5 @@
 // TypeCasting 
-package Chapter6;
+
 
 class A{
   public void show1(){
