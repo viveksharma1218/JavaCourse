@@ -1,5 +1,5 @@
 // Inner class
-package Chapter6;
+
 class A{
   public void show(){
     System.out.println("in A show");

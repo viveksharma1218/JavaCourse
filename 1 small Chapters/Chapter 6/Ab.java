@@ -1,4 +1,4 @@
-package Chapter6;
+
 // abstract keyword
 // when our class declare the method but don't define it
 // the class who is extending this class will define the 
